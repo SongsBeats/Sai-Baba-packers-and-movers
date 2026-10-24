@@ -1,0 +1,11 @@
+# Local output and working files; Vercel rebuilds dist from source.
+dist/
+artifacts/
+node_modules/
+*.log
+.env
+.env.*
+README.md
+GOOGLE-BUSINESS-PROFILE.md
+Image (1).png
+assets/brand/brand-prompt.txt

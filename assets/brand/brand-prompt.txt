@@ -1,0 +1,12 @@
+Mode: built-in image_gen tool; generate; transparent_background=true.
+
+Use case: logo-brand
+Asset type: business website logo and tiny favicon.
+Primary request: Design one distinctive compact emblem for Sai Baba Packers & Movers, an Indian local relocation business. Use a bold geometric open moving carton integrated with a simple forward arrow and a subtle protective house shape. It must feel like a confident, established local service identity.
+Scene/backdrop: genuinely transparent background, actual alpha channel.
+Style/medium: extremely simple flat vector-like mark with crisp clean edges and a memorable silhouette.
+Composition/framing: one centered square emblem filling roughly 80% of the canvas, generous consistent transparent padding, designed to remain clear at 24 pixels.
+Color palette: dark ink navy #142c38 and warm burnt orange #bf4e2e; two flat colors only.
+Text: no text, no letters.
+Constraints: bold broad shapes, limited negative space, no thin lines, no complicated details, no religious portrait.
+Avoid: gradients, shadows, glossy effects, mockups, photos, decorative badges, watermarks, extra elements.
