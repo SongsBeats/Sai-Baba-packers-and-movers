@@ -87,7 +87,7 @@ form.addEventListener("submit", (event) => {
       })
     : "To be discussed";
   const message = [
-    "Hello Sai Baba Packers and Movers,",
+    "Hello Sri Sai Baba Packers and Movers,",
     "",
     "I would like to discuss a move.",
     `Name: ${name}`,
